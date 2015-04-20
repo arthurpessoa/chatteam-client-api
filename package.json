@@ -35,8 +35,8 @@
   },
   "window": {
     "title": "Chatteam",
-    "toolbar": true,
-    "frame": true,
+    "toolbar": false,
+    "frame": false,
     "width": 1024,
     "height": 600,
     "min_width": 1024,
